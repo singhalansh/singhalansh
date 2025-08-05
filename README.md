@@ -1,75 +1,100 @@
 <div align="center">
   <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl5ajNxNzRvOWJmdTFqYXZpeG1pNGV2eXUzb2R2Mjg4cXZud2VvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Ansh+Singhal;Full-Stack+%7C+ML+%7C+Cloud;Co-founder-:+AstraFloww;Lifelong+Learner+%26+Builder" alt="Typing SVG" />
+</div>
 
-###
+---
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<h4 align="left">
+I'm <strong>Ansh Singhal</strong>, a passionate Full-Stack Developer, Machine Learning Enthusiast, and Open Source Contributor. Currently in my pre-final year, I'm exploring the dynamic intersection of full-stack engineering and AI/ML.
+</h4>
 
-<h4 align="left">I'm Ansh Singhal, a passionate MERN Stack Developer, Machine Learning Enthusiast, and Open Source Contributor.A pre final year student, exploring the intersection of full-stack development and AI/ML.<br><br>🚀 What I Do<br>👨‍💻 Full-Stack Development: Experienced in building web applications using MERN (MongoDB, Express.js, React.js, Node.js).<br>🤖 Machine Learning & Computer Vision: Worked on projects involving YOLO, OpenCV, and TensorFlow/PyTorch.<br>🔍 Data Structures & Algorithms:<br>Solved 650+ problems on LeetCode with a 200+ days streak.<br>💡 Hackathons & Projects: Built projects like Vasundhara (an eco-friendly platform), MegaBlog (React.js & Appwrite), object tracking systems, and more.<br>📚 What I'm Learning<br>🏗️ Improving my React.js and backend development skills.<br>🎯 Exploring Generative AI and LLMs.<br>⚡ Advancing in computer vision and deep learning for real-world applications.</h4>
+---
 
-###
+### 🚀 What I Do
 
-<h2 align="left">I code with</h2>
+-   👨‍💻 **Full-Stack Development**: Building scalable apps with **MERN**, **TailwindCSS**, **Appwrite**, **Firebase**, and more.
+-   🤖 **AI/ML & Computer Vision**: Projects involving **YOLO**, **OpenCV**, **TensorFlow**, **PyTorch**, **RAG**, and **n8n**.
+-   🌐 **Cloud & Automation**: Deployments, migrations, and workflows using **AWS**, **MCP**, **Docker**, and **CI/CD** tools.
+-   💻 **Data Structures & Algorithms**: Solved **800+ LeetCode problems**.
+-   🛠️ **Hackathons & Projects**: Winner and finalist at **LexHack**, **Tech Arena**, **Project Showcase**, **BITS Hackathon**, **Hack2Hustle**, and more.
 
-###
+---
 
-<br clear="both">
+### 🏆 Major Wins & Roles
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="32" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" width="32" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" width="32" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="32" width="32" alt="anaconda logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="32" width="32" alt="androidstudio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="32" width="32" alt="appwrite logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" width="32" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" width="32" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" width="32" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" width="32" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" width="32" alt="django logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" width="32" alt="express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" width="32" alt="firebase logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" width="32" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" width="32" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" width="32" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" width="32" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" width="32" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" width="32" alt="jupyter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="32" width="32" alt="kaggle logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" width="32" alt="linkedin logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="32" width="32" alt="matlab logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" width="32" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" width="32" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="32" width="32" alt="npm logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" width="32" alt="numpy logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="32" width="32" alt="opencv logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" width="32" alt="pandas logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32" width="32" alt="pytorch logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="32" width="32" alt="tailwindcss logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" width="32" alt="tensorflow logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" width="32" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" width="32" alt="python logo" />
-</div>
+-   🥇 **Winner**: LexHack, Tech Arena, Project Showcase
+-   🥈 **Runner-up**: Algorance
+-   🏅 **Top 5/10 Finalist**: BITS Hackathon, Hack2Hustle, Code Nakshatra
+-   🧠 **Built**: Vasundhara, MegaBlog, LawyerUp, Luna (AI receptionist), Mental Health RAG bot, Bablu Bot, Real-Time YOLO Tracking, VitalsView, EMS
+-   👨‍💼 **Co-Founder**: <a href="https://astrafloww.com">AstraFloww</a> — a full-stack agency doing **web, cloud, and automation**.
 
-###
+---
 
-<br clear="both">
+### 📚 What I'm Doing
 
-<h3 align="center">Profile views</h3>
+-   ⚛️ Advanced **React**, **Next.js**, **backend architectures**
+-   🧯 Deep Dive into **LLMs**, **Generative AI**, **RAG pipelines**
+-   🧠 Optimizing **computer vision**, **3D U-Nets**, and **medical segmentation**
+-   ☁️ Improving **DevOps**, **MCP workflows**, and **cloud-native** deployments
 
-###
+---
 
-<br clear="both">
+<h2 align="center">⚡ Tech Stack</h2>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/singhalansh/count.svg?"  />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,python,cpp,java,html,css,tailwind,docker,git,github,firebase,appwrite,opencv,anaconda,tensorflow,pytorch,vscode,jupyter,figma" />
+</p>
 
-###
+---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhalansh&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=singhalansh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhalansh&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhalansh&theme=react-dark" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+  
 <img src="https://raw.githubusercontent.com/singhalansh/singhalansh/output/snake.svg" alt="Snake animation" />
 
-###
+</p>
+
+
+<h2 align="center">💼 Currently Building</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-GPT4|Mistral|Claude-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agents-VAPI%20%7C%20Langchain-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Workflows-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-MCP%20%7C%20AWS%20%7C%20Docker-lightgrey?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Agency-AstraFlow-red?style=for-the-badge" />
+</p>
+
+---
+
+
+<p align="center">
+  <strong>Let’s connect and build something awesome together!</strong> <br>
+  <a href="https://anshsinghal.vercel.app" target="_blank">🌍 Portfolio</a> •
+  <a href="https://github.com/singhalansh" target="_blank">💻 GitHub</a> •
+  <a href="https://linkedin.com/in/anshsinghal2005" target="_blank">🔗 LinkedIn</a>
+</p>
